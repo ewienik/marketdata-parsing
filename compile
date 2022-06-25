@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#c++ `cat compile_flags.txt` main.cpp
+c++ `cat compile_flags.txt` -g main.cpp
